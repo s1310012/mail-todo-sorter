@@ -1,0 +1,66 @@
+[
+  {
+    "category": "就活",
+    "related_name": "エクサ",
+    "importance": "高",
+    "deadline": "5月22日 10:30",
+    "todo": "面接日程・参加方法を確認する",
+    "completed": false
+  },
+  {
+    "category": "就活",
+    "related_name": "ティアンドエスグループ",
+    "importance": "高",
+    "deadline": "5月20日 15:30",
+    "todo": "面接日程・参加方法を確認する",
+    "completed": false
+  },
+  {
+    "category": "就活",
+    "related_name": "システムアイ",
+    "importance": "高",
+    "deadline": "5月28日 23:59",
+    "todo": "面接日程・参加方法を確認する",
+    "completed": false
+  },
+  {
+    "category": "就活",
+    "related_name": "システムアイ",
+    "importance": "高",
+    "deadline": "5月15日 23:59",
+    "todo": "提出物を確認して対応する",
+    "completed": false
+  },
+  {
+    "category": "予約・チケット",
+    "related_name": "宿泊",
+    "importance": "高",
+    "deadline": "6月6日 19:30",
+    "todo": "予約内容・日時・チケット情報を確認する",
+    "completed": false
+  },
+  {
+    "category": "予約・チケット",
+    "related_name": "交通",
+    "importance": "高",
+    "deadline": "6月6日 12:00",
+    "todo": "予約内容・日時・チケット情報を確認する",
+    "completed": false
+  },
+  {
+    "category": "大学",
+    "related_name": "検診",
+    "importance": "低",
+    "deadline": "5月20日 14:15",
+    "todo": "授業・講義の連絡内容を確認する",
+    "completed": false
+  },
+  {
+    "category": "大学",
+    "related_name": "GEG",
+    "importance": "高",
+    "deadline": "4月21日 23:59",
+    "todo": "課題・レポートの内容と締切を確認する",
+    "completed": false
+  }
+]
